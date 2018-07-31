@@ -18,7 +18,7 @@
 	<label for="content"> 간단한 가입 인사를 적어주세요 ^^7</label>
 	<textarea id="content" name="content" rows="3" cols="35"></textarea>
 	<br>
-	<input type="submit" value="전송">
+	<input type="submit" value="전송이야">
 
 </form>
 
